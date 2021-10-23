@@ -1,3 +1,5 @@
 https://analytics.facebook.com
 https://logbak.hicloud.com
 https://analytics-api.samsunghealthcn.com
+https://advertising.twitter.com
+https://advertising-api-eu.amazon.com
