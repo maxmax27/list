@@ -3,3 +3,4 @@ logbak.hicloud.com
 analytics-api.samsunghealthcn.com
 advertising.twitter.com
 advertising-api-eu.amazon.com
+ads.facebook.com
