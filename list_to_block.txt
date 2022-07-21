@@ -4,7 +4,6 @@ analytics-api.samsunghealthcn.com
 advertising.twitter.com
 advertising-api-eu.amazon.com
 ads.facebook.com
-https://ads.facebook.com
-https://analyticsengine.s3.amazonaws.com
-https://advice-ads.s3.amazonaws.com
-https://affiliationjs.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
