@@ -14,3 +14,4 @@ udcm.yahoo.com
 appmetrica.yandex.ru
 business-api.tiktok.com
 ads-api.tiktok.com
+appmetrica.yandex.ru
