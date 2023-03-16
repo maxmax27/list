@@ -7,3 +7,10 @@ ads.facebook.com
 analyticsengine.s3.amazonaws.com
 advice-ads.s3.amazonaws.com
 affiliationjs.s3.amazonaws.com
+api-adservices.apple.com
+grs.hicloud.com
+bdapi-ads.realmemobile.com
+udcm.yahoo.com
+appmetrica.yandex.ru
+business-api.tiktok.com
+ads-api.tiktok.com
