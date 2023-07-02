@@ -18,3 +18,4 @@ appmetrica.yandex.ru
 adfstat.yandex.ru
 udc.yahoo.com
 bdapi-in-ads.realmemobile.com
+ck.ads.oppomobile.com
